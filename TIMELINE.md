@@ -2,3 +2,6 @@ This a project's timeline file. It will be updated with every new functionalitie
 
 2021-03-31
 Project created. The design and assumptions are currently being created. This is just a 'master' repo, which does not includes all working branches.
+
+2022-08-23
+Started to design a database, created project's basics.
